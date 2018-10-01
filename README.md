@@ -5,7 +5,8 @@ Push the app using manifest defaults, cd into the environment folder that holds 
 cd ViewEnvironment
 ```
 
-Update the manifest.yml file to have a route that cooresponds to your email handle, for example (note: you should use Notepad++ or code text editor for edits to YML)
+Update the manifest.yml file to have a route that cooresponds to your email handle, for example:
+Note: you should use Notepad++ or code text editor for edits to YML
 ```
 applications:
 - name: dotnet-example
