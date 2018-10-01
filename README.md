@@ -6,7 +6,3 @@ cd ViewEnvironment
 
 cf push
 ```
-
-
-# dotnet-cf-sample-app
-# dotnet-cf-sample-app
