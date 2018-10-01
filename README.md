@@ -22,3 +22,7 @@ Push your application:
 ```
 cf push
 ```
+
+Congratulations! You have just pushed your first applciation to Cloud Foundry!
+
+Check out the Pivotal Cloud Fundry .NET Cookbook: https://dotnet-cookbook.cfapps.io/intro/
