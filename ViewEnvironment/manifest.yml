@@ -1,7 +1,7 @@
 ---
 applications:
 - name: dotnet-example
-  host: dotnet-${random-word}
+  host: dotnet-example
   memory: 128M
   stack: windows2012R2
   instances: 1
